@@ -11,7 +11,7 @@
 <body> 
 	<center>
 	<h1>
-		Login Page <?php if(isset($_SESSION['pass'])){ echo $_SESSION['pass'];} ?>
+		Login Page 
 	</h1>
 	<fieldset>
 	<legend>Login Admin</legend>
